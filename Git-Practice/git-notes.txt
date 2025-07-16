@@ -1,1 +1,2 @@
 Git Commands I've Learned:
+1. git init - Create a new repo
