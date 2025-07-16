@@ -26,11 +26,10 @@ July 13, 2025 - Git Problems
 Got "rejected" error when pushing to GitHub
 
 Solved with:
-
-bash
-git pull origin main
-git push origin main
-July 14, 2025 - Naming Issues
+ ```bash
+ git pull origin main
+ git push origin main
+ July 14, 2025 - Naming Issues
 
 Made files with spaces like Deep Thought.py
 
