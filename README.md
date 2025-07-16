@@ -1,53 +1,73 @@
-# 🌱 WeThinkCode_ Pre-Academy Journal  
+# 🌱 My Coding Journey at WeThinkCode_
 **Name**: Zinhle  
-**GitHub**: [ZinhleH-thanos](https://github.com/ZinhleH-thanos)  
-**Start Date**: 11 July 2025  
+**Start Date**: July 11, 2025  
 
----
+## 📅 Week 0: Python Basics (Completed July 15, 2025)
+### What I Learned:
+- How to use `input()` and `print()`
+- String methods like `.lower()` and `.replace()`
+- Basic math operations
 
-## Week 1: Getting Started  
-### Day 1 (11 July 2025)  
-- **Goal**: Set up Python, Git, and create first script.  
-- **Progress**:  
-  - Installed Python and verified with `python --version`.  
-  - Created `hello.py` and ran it successfully.  
-  - Pushed code to GitHub using Git commands.  
-- **Struggles**:  
-  - Initially confused about which terminal to use (learned VS Code's terminal is best!).  
-- **Tomorrow's Plan**: Start CS50P Week 0 (`indoor.py`).  
+### Files Completed:
+1. `indoor.py` - Makes text quiet (lowercase)
+2. `playback.py` - Slows down speech with "..."
+3. `faces.py` - Turns :) into 🙂 and :( into 🙁
+4. `einstein.py` - Calculates E=mc²
+5. `tip.py` - Calculates restaurant tips
 
-# 🌱 My Coding Journey - Week 0
+### Big Challenges:
+**July 12, 2025** - File Confusion  
+- Created `hello.py` on my Desktop by mistake  
+- Fixed by moving it:  
+  ```bash
+  mv ~/Desktop/hello.py ~/wethinkcode-pre-academy/
+July 13, 2025 - Git Problems
 
-## Completed Tasks
-1. **indoor.py**  
-   - Made a program that converts SHOUTING to quiet text.  
-   - *Struggle:* Forgot to save before running the first time!  
-   - *Win:* Learned `input()` and `lower()`.
+Got "rejected" error when pushing to GitHub
 
-2. **playback.py**  
-   - Changed normal speech to...slow...motion.  
-   - *Struggle:* Tried `" ".join(...)` first (too complicated).  
-   - *Win:* Discovered `replace()` works perfectly!
+Solved with:
 
-3. **faces.py**  
-   - Turned boring emoticons :) into happy emojis 🙂.  
-   - *Struggle:* The emojis showed as boxes until I restarted VS Code.  
-   - *Win:* Made my first function with `convert()`!
+bash
+git pull origin main
+git push origin main
+July 14, 2025 - Naming Issues
 
-4. **einstein.py**  
-   - Calculated energy from mass (E=mc²).  
-   - *Struggle:* Forgot Python uses `**` for exponents, not `^`.  
-   - *Win:* Finally understand why c is squared!
+Made files with spaces like Deep Thought.py
 
-5. **tip.py**  
-   - Built a tip calculator for restaurants.  
-   - *Struggle:* Spent 30 minutes debugging why `$50.00` became `5000.0`.  
-   - *Win:* Learned to remove `$` and `%` properly.
+Had to rename them:
 
-## How I Feel
-- 😅 *Overwhelmed* by new concepts but proud I finished everything!
-- 🤯 *Mind-blown* that simple code can do useful things.
-- 📝 *Note to self:* Test with weird inputs (like `$0.00` or `100%`) next time.
+bash
+mv "Deep Thought.py" deep_thought.py
+📂 Current Setup
+Folder Structure:
+text
+wethinkcode-pre-academy/
+├── Week0/       # Done!
+│   ├── indoor.py
+│   ├── playback.py
+│   └── ...
+├── Week1/       # Empty (starting soon)
+├── Week2/       # Empty
+└── ...
+Tools I'm Using:
+CS50 Codespace (for coding)
 
-## What's Next?
-- Week 1: Conditionals (if/else statements)  
+GitHub (to save my work)
+
+VS Code (when I need to edit)
+
+😅 How I Feel
+Proud I finished Week 0!
+
+Confused sometimes by Git
+
+Excited to learn conditionals next
+
+📝 What's Next?
+Week 1: Conditionals (if/else)
+
+First task: bank.py greeting program
+
+Week 2: Loops
+
+Practice Git commands daily
