@@ -46,8 +46,38 @@
 - Excited to learn conditionals next
 
 ##📝 What's Next?
-**Week 1: Conditionals (if/else)**
-- First task: bank.py greeting program
+cat << 'EOF' >> README.md
+
+## Week 1: Conditional Logic (July 16-22, 2025)
+
+### Key Learnings:
+- Implemented decision-making flows with `if/elif/else` structures
+- Mastered input standardization using `.lower()` and `.strip()`
+- Solved time conversion challenges between 24-hour and decimal formats
+
+### Project Highlights:
+1. `deep.py` - The Ultimate Answer validator (42) 🔮  
+   *Validates user input against the cosmic truth*
+2. `bank.py` - Context-aware greeting analyzer 💰  
+   *Financial incentive system based on greeting etiquette*
+3. `extensions.py` - File type identifier 🧠  
+   *Determines MIME types from file extensions*
+4. `interpreter.py` - Arithmetic expression evaluator ➗  
+   *Parses and computes basic math operations*
+5. `meal.py` - Temporal meal detector 🍔  
+   *Identifies appropriate dining periods based on time inputs*
+
+### Confusing Moments:
+**July 21:** Input validation in `deep.py`  
+Refined case sensitivity handling:
+```python
+answer = input("...").strip().lower()  # Universal input normalization
+
+**July 21:** Arithmetic parsing in interpreter.py
+Initial implementation worked for basic cases:
+```python
+x, y, z = expression.split()  # Standard expression parsing
+Note: Later discovered this doesn't handle negative numbers
 
 ## **Week 2: Loops**
 - Practice Git commands daily
