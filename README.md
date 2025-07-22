@@ -1,4 +1,4 @@
-# 🌱 My Coding Journey at WeThinkCode_
+I'm# 🌱 My Coding Journey at WeThinkCode_
 **Name**: Zinhle  
 **Start Date**: July 11, 2025  
 
@@ -45,7 +45,7 @@
 - Confused sometimes by Git
 - Excited to learn conditionals next
 
-##📝 What's Next?
+## 📝 What's Next?
 
 ## Week 1: Conditional Logic (July 16-22, 2025)
 
