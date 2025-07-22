@@ -46,7 +46,6 @@
 - Excited to learn conditionals next
 
 ##📝 What's Next?
-cat << 'EOF' >> README.md
 
 ## Week 1: Conditional Logic (July 16-22, 2025)
 
