@@ -1,6 +1,7 @@
-I'm# 🌱 My Coding Journey at WeThinkCode_
+🌱 My Coding Journey at WeThinkCode_
 **Name**: Zinhle  
-**Start Date**: July 11, 2025  
+**Start Date**: July 11, 2025
+**[![GitLab]](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)**
 
 ## 📅 Week 0: Python Basics (Completed July 15, 2025)
 ### What I Learned:
