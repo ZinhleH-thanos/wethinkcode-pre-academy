@@ -1,83 +1,118 @@
 🌱 My Coding Journey at WeThinkCode_
-**Name**: Zinhle  
-**Start Date**: July 11, 2025
-**[![GitLab]](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)**
+Name: Zinhle
+Start Date: July 11, 2025
+[![GitLab](https://img.shields.io/badge/GitLab-Mirror-orange?logo=gitlab)](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)
 
-## 📅 Week 0: Python Basics (Completed July 15, 2025)
-### What I Learned:
-- How to use `input()` and `print()`
-- String methods like `.lower()` and `.replace()`
-- Basic math operations
 
-### Files Completed:
-1. `indoor.py` - Makes text quiet (lowercase)
-2. `playback.py` - Slows down speech with "..."
-3. `faces.py` - Turns :) into 🙂 and :( into 🙁
-4. `einstein.py` - Calculates E=mc²
-5. `tip.py` - Calculates restaurant tips
+📅 Week 0: Python Basics (Completed July 15)
+🧠 What I Learned
+How to use input() and print() to interact with users.
 
-### Big Challenges:
-**July 12, 2025** - File Confusion  
-- Created `hello.py` on my Desktop by mistake  
-- Fixed by moving it:  
-  ```bash
-  mv ~/Desktop/hello.py ~/wethinkcode-pre-academy/
-  
-**July 13, 2025** - Git Problems
-- Got "rejected" error when pushing to GitHub
-- Solved with:
-  ```bash
-  git pull origin main
-  git push origin main
-  
-**July 14, 2025** - Naming Issues
-- Made files with spaces like Deep Thought.py
-- Had to rename them:
-   ```bash
-   mv "Deep Thought.py" deep_thought.py
+String methods like .lower() and .replace().
 
-## Tools I'm Using:
-- CS50 Codespace (for coding)
-- GitHub (to save my work)
-- VS Code (when I need to edit)
+Basic math operations in Python.
 
-## 😅 How I Feel
-- Proud I finished Week 0!
-- Confused sometimes by Git
-- Excited to learn conditionals next
+💻 Projects I Worked On
+indoor.py — makes text lowercase.
 
-## 📝 What's Next?
+playback.py — adds "..." between words to slow down speech.
 
-## Week 1: Conditional Logic (July 16-22, 2025)
+faces.py — changes :) and :( into real emojis.
 
-### Key Learnings:
-- Implemented decision-making flows with `if/elif/else` structures
-- Mastered input standardization using `.lower()` and `.strip()`
-- Solved time conversion challenges between 24-hour and decimal formats
+einstein.py — calculates E = mc².
 
-### Project Highlights:
-1. `deep.py` - The Ultimate Answer validator (42) 🔮  
-   *Validates user input against the cosmic truth*
-2. `bank.py` - Context-aware greeting analyzer 💰  
-   *Financial incentive system based on greeting etiquette*
-3. `extensions.py` - File type identifier 🧠  
-   *Determines MIME types from file extensions*
-4. `interpreter.py` - Arithmetic expression evaluator ➗  
-   *Parses and computes basic math operations*
-5. `meal.py` - Temporal meal detector 🍔  
-   *Identifies appropriate dining periods based on time inputs*
+tip.py — calculates how much tip to leave at a restaurant.
 
-### Confusing Moments:
-**July 21:** Input validation in `deep.py`  
-Refined case sensitivity handling:
-```python
-answer = input("...").strip().lower()  # Universal input normalization
+⚠️ Challenges I Faced
+July 12: I accidentally created hello.py on my Desktop. I moved it using:
 
-**July 21:** Arithmetic parsing in interpreter.py
-Initial implementation worked for basic cases:
-```python
-x, y, z = expression.split()  # Standard expression parsing
-Note: Later discovered this doesn't handle negative numbers
+bash
+Copy
+Edit
+mv ~/Desktop/hello.py ~/wethinkcode-pre-academy/
+July 13: I got a push rejection when using Git. I fixed it with:
 
-## **Week 2: Loops**
-- Practice Git commands daily
+bash
+Copy
+Edit
+git pull origin main && git push origin main
+July 14: I created file names with spaces. I fixed this using:
+
+bash
+Copy
+Edit
+mv "Deep Thought.py" deep_thought.py
+😄 How I Felt
+I was proud to finish my first week! Git was a bit confusing, but I started getting the hang of it. Excited to learn conditionals next.
+
+📅 Week 1: Conditional Logic (Completed July 22)
+🧠 What I Learned
+Writing decision-making code using if, elif, and else.
+
+Cleaning up user input with .strip() and .lower().
+
+Converting time formats (like 7:30 → 7.5).
+
+💻 Projects I Worked On
+deep.py — checks if the answer is “42”.
+
+bank.py — gives different responses based on greetings.
+
+extensions.py — detects file types from their extensions.
+
+interpreter.py — does basic math from a string like "3 + 2".
+
+meal.py — tells you if it's breakfast, lunch, or dinner time.
+
+💡 Something New I Tried
+In meal.py, I converted time like this:
+
+python
+Copy
+Edit
+hours = float(hours) + (float(minutes) / 60)
+😄 How I Felt
+Week 1 felt more challenging than Week 0, but it was fun! I liked building small apps that actually respond differently based on user input.
+
+📅 Week 2: Loops & Practice Projects (Completed July 24)
+🧠 What I Learned
+How while and for loops work in Python.
+
+Using loops to control the flow of programs.
+
+Validating input and repeating prompts until the user gives a correct response.
+
+Writing cleaner logic using functions.
+
+💻 Projects I Worked On
+camel.py — converts camelCase to snake_case.
+
+coke.py — simulates a vending machine that accepts coins.
+
+twttr.py — removes all vowels from a sentence or word.
+
+plates.py — checks if a vanity plate meets formatting rules.
+
+nutrition.py — returns calorie information for a fruit.
+
+😄 How I Felt
+This week had a lot more logic and testing involved, but I loved the challenge. Every project felt like a little puzzle I needed to solve. I’m getting better at reading tasks and understanding what is required, but I always struggle with what the code is supposed to look like and the syntax. I just hope I will get better with time!
+
+🛠 Tools I'm Using
+Codespace from CS50 for most of my coding.
+
+GitHub and GitLab to save and back up my work.
+
+VS Code when I need to do edits on my own.
+
+✅ Progress So Far
+Week 0: Done ✅
+
+Week 1: Done ✅
+
+Week 2: Done ✅
+
+Week 3: Coming Soon...
+
+
+ 
