@@ -92,11 +92,33 @@ This week had a lot more logic and testing involved, but I loved the challenge. 
 
 - VS Code when I need to do edits on my own
 
+## 📅 Week 3: Functions & Error Handling (Completed August 5)
+### 🧠 What I Learned
+- Creating programs that handle fractions and percentages
+- Working with dictionaries to build menu systems
+- Counting and sorting items for grocery lists
+- Converting between different date formats
+- Proper error handling with try/except blocks
+
+### 💻 Projects I Worked On
+- `fuel.py` — calculates fuel percentage from fractions (E for empty, F for full)
+- `taqueria.py` — keeps track of taco orders and running totals
+- `grocery.py` — counts grocery items and sorts them alphabetically
+- `outdated.py` — converts dates from MM/DD/YYYY to YYYY-MM-DD format
+
+### ⚠️ Challenges I Faced
+***July 31:*** Got stuck on fuel.py when testing with 5/4 input. Fixed by adding validation for fractions where numerator > denominator.
+
+***July 31:*** taqueria.py wasn't recognizing "Baja Taco" correctly. Solved by using .title() to standardize the input format.
+
+***July 31:*** outdated.py crashed with September 8, 1636 format. Fixed by carefully splitting the string and handling commas.
+
+😄 How I Felt
+This week really tested my problem-solving skills! The date conversion problem was especially tricky, but I felt so accomplished when I finally got it working. I'm starting to see how all the Python concepts connect together.
+
 ✅ Progress So Far
 Week 0: Done ✅
-
 Week 1: Done ✅
-
 Week 2: Done ✅
-
-Week 3: Coming Soon...
+Week 3: Done ✅
+Week 4: Coming Soon...
