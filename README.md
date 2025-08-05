@@ -116,9 +116,51 @@ This week had a lot more logic and testing involved, but I loved the challenge. 
 😄 How I Felt
 This week really tested my problem-solving skills! The date conversion problem was especially tricky, but I felt so accomplished when I finally got it working. I'm starting to see how all the Python concepts connect together.
 
-✅ Progress So Far
-Week 0: Done ✅
-Week 1: Done ✅
-Week 2: Done ✅
-Week 3: Done ✅
-Week 4: Coming Soon...
+## 📅 Week 4: New Python Tools (Completed August 11-12)
+### 🧠 What I Learned
+- How to add emojis to my programs
+- Making big text art with different styles
+- Better ways to format lists of names
+- Creating simple number guessing games
+- Building a math practice program
+- Checking real Bitcoin prices online
+
+### 💻 Projects I Worked On
+- `emojize.py` - Changes codes like ":cat:" into 🐱
+- `figlet.py` - Makes cool text banners
+- `adieu.py` - Says goodbye to names nicely ("A, B, and C")
+- `game.py` - Number guessing game with hints
+- `professor.py` - Math quiz that gives scores
+- `bitcoin.py` - Shows current Bitcoin prices
+
+### ⚠️ Problems I Solved
+***August 11:***  
+- Bitcoin checker wasn't working - Fixed by adding error checks
+- Math quiz score was wrong - Fixed the counting
+
+***August 12:***  
+- Text art fonts didn't load - Reinstalled the font tool
+- Emojis didn't show - Had to install the emoji package first
+
+### 😄 How I Felt
+This week was tough but exciting! I learned how to use new tools that make Python do even cooler things. The math quiz was tricky to get right, but it felt amazing when it finally worked perfectly. Checking real Bitcoin prices made me feel like a real programmer and it was super exciting. I still need more practice with libraries and modules.
+
+### 🔧 New Things I Tried
+1. Installing new tools with `pip install`
+2. Using other people's code (libraries)
+3. Getting data from the internet (APIs)
+4. Making programs with multiple parts
+
+✅ **My Progress**  
+Week 0: Done ✅  
+Week 1: Done ✅  
+Week 2: Done ✅  
+Week 3: Done ✅  
+Week 4: Done ✅  
+Week 5: Coming Soon...
+
+💡 **What I Learned**  
+1. Don't build everything from scratch - use existing tools
+2. Internet connections can fail - always have a backup plan
+3. Test with simple numbers first
+4. Read the instructions carefully
