@@ -1,18 +1,28 @@
-# 🌱 My Coding Journey at WeThinkCode_
+# 🌱 My Coding Journey at WeThinkCode_ 
 
 **Name:** Zinhle  
+**Course:** [CS50P - Harvard's Introduction to Programming with Python](https://cs50.harvard.edu/python/
 **Start Date:** July 11, 2025  
 [![GitLab](https://img.shields.io/badge/GitLab-Mirror-orange?logo=gitlab)](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)
 
 ---
 
+### 📚 About My Course  
+I'm taking Harvard's **CS50P** to learn:  
+- Core Python programming concepts 🐍  
+- How to solve real-world problems with code  
+- Best practices for writing clean and efficient programs
+
+---
+
 ## ✅ My Progress
-- ✅ Week 0: Python Basics  
-- ✅ Week 1: Conditional Logic  
-- ✅ Week 2: Loops & Practice Projects  
-- ✅ Week 3: Functions & Error Handling  
-- ✅ Week 4: New Python Tools  
-- 🔜 Week 5: Coming Soon...
+- ✅ Week 0: Python Basics & Problem Set 0
+- ✅ Week 1: Conditional Logic & Problem Set 1
+- ✅ Week 2: Loops & Practice Projects & Problem Set 2
+- ✅ Week 3: Functions & Error Handling & Problem Set 3 
+- ✅ Week 4: New Python Tools & Problem Set 4
+- ✅ Week 5: Unit Tests & Problem Set 5  
+- 🔜 Week 6: Coming Soon...
 
 ---
 
@@ -167,6 +177,55 @@ This week really tested my problem-solving skills! The date conversion task was 
 ### 😄 How I Felt  
 This week was tough but exciting! The tools I used made Python feel more powerful. The Bitcoin checker made me feel like a real programmer. I still need to practice using libraries and modules better.
 
+</details>
+
+---
+
+<details>
+<summary>📅 <strong>Week 5: Testing My Code (Completed August 19)</strong></summary>
+
+### 🧠 What I Learned
+- How to write **simple tests** for my code (using something called `pytest`)
+- Why testing is important (it catches mistakes before they become problems!)
+- How to check if my code works perfectly (using `check50`)
+
+### 💻 Projects I Worked On
+1. **Testing my twttr** (`twttr.py`)  
+   - Made a program that removes vowels from words (like Twitter → Twttr)
+   - Learned to test it with ALL CAPS words and mixed words
+
+2. **Back to the Bank** (`bank.py`)  
+   - Made a bank greeting program that gives $0 for "hello", $20 for "hi", $100 otherwise
+   - Had to make sure it works even if people type "HeLLo" weirdly
+
+3. **Vanity Plates** (`plates.py`)  
+   - Made a license plate checker (so cool!)
+   - Hardest part: Making sure numbers only come at the end (like "CS50" is okay but "CS50P" isn't)
+
+4. **Refueling** (`fuel.py`)  
+   - Made a fuel gauge that shows E (empty) or F (full)
+   - Tricky part: Handling fractions like 1/100 and 99/100 correctly
+
+### ⚠️ Challenges I Faced
+**August 16:**  
+- My license plate checker kept saying "AAA22A" was valid (it's not!)
+- Fixed it by checking if letters come after numbers
+
+**August 17:**  
+- My fuel gauge showed 1% when it should say "E"
+- Added a special check for numbers 1% or lower
+
+**August 18:**  
+- Tests failed when people typed "hElLo" with mixed caps
+- Used `.lower()` to make all greetings lowercase first
+
+### 😄 How I Felt  
+This week was tough but really interesting! I never thought about testing my code before. At first, I didn't understand why we needed tests, but now I see how they help catch sneaky bugs. I'm proud that I made all my programs pass every test!
+
+The license plate problem was the hardest - I had to rewrite my code 3 times! But when all tests finally passed, it felt amazing. I'm starting to feel like a real programmer!
+
+### 🌟 Favorite Moment
+When my fuel gauge correctly showed "F" for 99% full - it felt like magic!
 </details>
 
 ---
