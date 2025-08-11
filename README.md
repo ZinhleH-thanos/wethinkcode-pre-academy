@@ -27,7 +27,7 @@ I'm taking Harvard's **CS50P** to learn:
 ---
 
 <details>
-<summary>📅 <strong>Week 0: Python Basics (Completed July 15)</strong></summary>
+<summary>📅 <strong>Week 0: Python Basics </strong></summary>
 
 ### 🧠 What I Learned
 - How to interact with users using input and print
@@ -59,7 +59,7 @@ I was proud to finish my first week! Git was a bit confusing, but I started gett
 ---
 
 <details>
-<summary>📅 <strong>Week 1: Conditional Logic (Completed July 22)</strong></summary>
+<summary>📅 <strong>Week 1: Conditional Logic </strong></summary>
 
 ### 🧠 What I Learned
 - Writing programs that make decisions using conditions
@@ -84,7 +84,7 @@ Week 1 felt more challenging than Week 0, but it was fun! I liked building small
 ---
 
 <details>
-<summary>📅 <strong>Week 2: Loops & Practice Projects (Completed July 24)</strong></summary>
+<summary>📅 <strong>Week 2: Loops & Practice Projects </strong></summary>
 
 ### 🧠 What I Learned
 - How loops work in Python  
@@ -182,7 +182,7 @@ This week was tough but exciting! The tools I used made Python feel more powerfu
 ---
 
 <details>
-<summary>📅 <strong>Week 5: Testing My Code (Completed August 19)</strong></summary>
+<summary>📅 <strong>Week 5: Testing My Code </strong></summary>
 
 ### 🧠 What I Learned
 - How to write **simple tests** for my code (using something called `pytest`)
