@@ -112,7 +112,7 @@ This week had a lot more logic and testing involved, but I loved the challenge. 
 ---
 
 <details>
-<summary>📅 <strong>Week 3: Functions & Error Handling (Completed August 5)</strong></summary>
+<summary>📅 <strong>Week 3: Functions & Error Handling </strong></summary>
 
 ### 🧠 What I Learned
 - Creating functions for reusable logic  
@@ -141,7 +141,7 @@ This week really tested my problem-solving skills! The date conversion task was 
 ---
 
 <details>
-<summary>📅 <strong>Week 4: New Python Tools (Completed August 11–12)</strong></summary>
+<summary>📅 <strong>Week 4: New Python Tools </strong></summary>
 
 ### 🧠 What I Learned
 - Adding emojis to programs  
