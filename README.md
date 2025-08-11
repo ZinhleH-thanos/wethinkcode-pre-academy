@@ -1,7 +1,7 @@
 # 🌱 My Coding Journey at WeThinkCode_ 
 
 **Name:** Zinhle  
-**Course:** [CS50P - Harvard's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@ea6fc5c250bc4fc786575db3b93611a5/block-v1:HarvardX+CS50P+Python+type@vertical+block@41edb525ad5547e1909462de5cc3fcd2]
+**Course:** [CS50P - Harvard's Introduction to Programming with Python]([![edX](https://img.shields.io/badge/edX-CS50P-blue?logo=edx)](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python)]
 **Start Date:** July 11, 2025  
 [![GitLab](https://img.shields.io/badge/GitLab-Mirror-orange?logo=gitlab)](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)
 
