@@ -1,7 +1,7 @@
 # 🌱 My Coding Journey at WeThinkCode_ 
 
 **Name:** Zinhle  
-**Course:** [CS50P - Harvard's Introduction to Programming with Python](https://cs50.harvard.edu/python/
+**Course:** [CS50P - Harvard's Introduction to Programming with Python](https://cs50.harvard.edu/python/]
 **Start Date:** July 11, 2025  
 [![GitLab](https://img.shields.io/badge/GitLab-Mirror-orange?logo=gitlab)](https://gitlab.com/ZinhleH-thanos/wethinkcode-pre-academy)
 
