@@ -21,8 +21,9 @@ I'm taking Harvard's **CS50P** to learn:
 - ✅ Week 2: Loops & Practice Projects & Problem Set 2
 - ✅ Week 3: Functions & Error Handling & Problem Set 3 
 - ✅ Week 4: New Python Tools & Problem Set 4
-- ✅ Week 5: Unit Tests & Problem Set 5  
-- 🔜 Week 6: Coming Soon...
+- ✅ Week 5: Unit Tests & Problem Set 5
+- ✅ Week 6: File I/O & Libraries & Problem Set 6
+- 🔜 Week 7: Coming Soon...
 
 ---
 
@@ -230,10 +231,59 @@ When my fuel gauge correctly showed "F" for 99% full - it felt like magic!
 
 ---
 
+<details> <summary>📅 <strong>Week 6: File I/O & Libraries </strong></summary>
+### 🧠 What I Learned
+   -How to read from and write to files in Python
+   -Working with CSV files and data processing
+   -Using external libraries like tabulate and Pillow
+   -Handling command-line arguments with sys.argv
+   -Validating file types and handling errors
+
+### 💻 Projects I Worked On
+1. **Lines of Code Counter** (`lines.py`)
+   -Counts actual code lines in Python files, ignoring comments and blank lines
+   -Learned to validate file extensions and handle command-line arguments
+
+2. **Pizza Menu Formatter** (`pizza.py`)
+   -Uses the tabulate library to create beautiful ASCII tables from CSV data
+   -Learned to install and use external Python packages
+
+3. **Data Cleaner** (`scourgify.py`)
+   -Processes CSV files to split combined names into first/last columns
+   -Practiced working with CSV data and transforming it
+
+4. **Image Processor** (`shirt.py`)
+   -Uses the Pillow library to overlay CS50 shirts on images
+   -Learned basic image processing and manipulation
+
+### ⚠️ Challenges I Faced
+   -File Validation: Making sure programs check for correct file extensions (.py, .csv, .jpg/.png)
+   -Library Installation: Had to learn how to install external packages using pip
+   -Command-Line Arguments: Properly handling different numbers of arguments and error messages
+   -Image Processing: Understanding how to resize, crop, and overlay images correctly
+
+### 🔧 New Tools & Libraries
+   -sys for command-line arguments and exiting programs
+   -csv for working with CSV files
+   -tabulate for creating formatted tables
+   -Pillow (PIL) for image processing
+   -os.path for file path operations
+
+### 😄 How I Felt
+This week was amazing! I felt like a "real" programmer working with files, data, and images. The pizza formatter was my favorite - seeing plain CSV data turn into beautiful tables felt like magic. The image processing was challenging but so rewarding when I got it working.
+
+-I'm starting to see how all the pieces fit together - command-line arguments, file handling, data processing, and using external libraries. This week made me feel like I could build useful tools that solve real problems!
+
+</details>
+
+---
+
 ## 💡 Key Lessons I've Learned So Far
 
 1. Don’t build everything from scratch — use tools and libraries  
 2. Internet problems can happen — plan ahead  
 3. Start by testing with small, simple values  
-4. Read the task instructions carefully  
+4. Read the task instructions carefully
+5. File handling and external libraries make Python incredibly powerful
+6. Proper error handling makes programs much more robust and user-friendly
 
